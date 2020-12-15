@@ -126,6 +126,7 @@ Una vez armado el circuito en el protoboard utilizando el programa en línea tin
 
 ![](https://fotos.subefotos.com/3e0bce60e1ff8a8d34d7a5a27ae1b154o.jpg)
 
-
+Video explicativo 
+[video del grupo en toutube](https://www.youtube.com/watch?v=qvL3Ca5jlHI&feature=youtu.be "video del grupo en youtube")
 
 
