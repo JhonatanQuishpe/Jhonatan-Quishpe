@@ -1,6 +1,6 @@
 # Jhonatan-Quishpe
 Informe Lab 1 (Quishpe Jhonatan- Flores Arévalo)
-# Informe lab 1
+# Informe laboratorio 1
 
 DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
 
@@ -43,7 +43,7 @@ La segunda ley de Kirchhoff se conoce como la “Ley de Voltajes”  ley de lazo
 
 En toda malla la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente. En toda malla la suma algebraica de las diferencias de potencial eléctrico es igual a cero.
 
-## 3.	Diagrama: 
+## 3.	DIAGRAMA: 
 
 ![](https://fotos.subefotos.com/072bb63a34cefe374d2a4e05ca87e646o.png)
 
