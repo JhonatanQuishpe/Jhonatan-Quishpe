@@ -22,9 +22,7 @@ INTEGRANTES:
 
 Fecha de entrega: 15/12/2020
 
-# RESUMEN
-Al momento de realizar esta práctica de laboratorio nos sirvió para entender y verificar el cumplimiento practico de las leyes tanto las de Ohm y Kirchhoff que se aprendió en clase y se pone en práctica en el laboratorio con los conocimientos obtenidos, para lo cual con la guía de laboratorio se procedió a construir un circuito el cual está establecido ya en esta práctica, es un circuito mixto.
-Una vez armado el circuito en el protoboard utilizando el programa en línea Funky Trug para armar circuitos eléctricos los pasos para hacer este circuito fuero: energizar o entregar energía eléctrica desde la fuente hacia los elementos, en la práctica se midió el voltaje y la corriente de cada una de las resistencias con la utilización del multímetro también se tomó datos los cuales marcaban en el multímetro en cada resistencia. Ya con los valores de voltaje y corriente medidos los siguiente fue llenar la tabla de datos para posteriormente realizar el informe de la práctica.
+
 
 ##### TEMA: LEYES DE KIRCHHOFF
 
