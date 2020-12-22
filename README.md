@@ -134,7 +134,6 @@ LEYES DE KIRCHHOFF
 [Guia informes de laboratorio ](https://github.com/doalulema/Informe/blob/master/README.md "Guia informes de laboratorio ")
 
 
-[video demostrativo armando el circuito ](https://www.youtube.com/watch?v=gjMEehpSTNk "Video demostrativo armando el circuito ")
 
 
 ## 10.	ANEXOS: 
