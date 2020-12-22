@@ -118,7 +118,12 @@ RECOMENDACIONES
 
 ## 9.	BIBLIOGRAFÍA: 
 
-[LEYES DE KIRCHHOFF](http://leyesdecorrienteelectrica.blogspot.com/ "LEYES DE KIRCHHOFF")
+LEYES DE KIRCHHOFF
+[Ayllón Fandiño, E. (1987): Fundamentos de la teoría de los circuitos eléctricos II. La Habana: Pueblo y Educación](http://wwwprof.uniandes.edu.co/~ant-sala/descargas/LibroFDC.pdf)
+
+[Bessonov, L. A. (1984): Teoreticheskie osnovi electrotejniki. Moscú: Vysshaia Shcola. ](https://urss.ru/cgi-bin/db.pl?lang=sp&blang=en&page=Catalog&list=299")
+
+[Neiman, L. R.; y Demirchian, L. R. (1981): Teoreticheskie osnovi electrotejniki. Leningrado: Energoizdat. ](https://www.ecured.cu/Leyes_de_Kirchhoff#La_primera_ley_de_Kirchhoff.2C_o_ley_de_los_nodos.2C_o_ley_de_las_corrientes)
 
 [tinkercad](https://www.tinkercad.com/things/8h0Km2KYppC-funky-trug/editel?tenant=circuits "tinkercad")
 
