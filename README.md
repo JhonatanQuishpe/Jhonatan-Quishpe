@@ -15,6 +15,7 @@ NRC: 4872
 **INFORME DE LABORATORIO N° 1**
 
 **INTEGRANTES:**
+
 •	Flores Arévalo
 
 •	Quishpe Jhonatan 
