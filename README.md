@@ -30,7 +30,7 @@ Fecha de entrega: 22/12/2020
 ## 1.	OBJETIVO GENERAL:  
 - Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes tanto en los valores medidos y calculados.
 
-##### OBJETIVO ESPECIFICO
+##### OBJETIVOS ESPECIFICO
 - Calcular las corrientes y voltajes con las leyes de Kirchhoff en el circuito de la practica
 - Familiarizar al estudiante con los elementos usados en esta practica tanto simuladores como métodos de resolución del circuito.
 - Aplicar los métodos conocidos para la resolución de circuitos y comprobar el porcentaje de error que se tuvo en la simulación. 
