@@ -119,6 +119,7 @@ RECOMENDACIONES
 ## 9.	BIBLIOGRAFÍA: 
 
 LEYES DE KIRCHHOFF
+
 [Ayllón Fandiño, E. (1987): Fundamentos de la teoría de los circuitos eléctricos II. La Habana: Pueblo y Educación](http://wwwprof.uniandes.edu.co/~ant-sala/descargas/LibroFDC.pdf)
 
 [Bessonov, L. A. (1984): Teoreticheskie osnovi electrotejniki. Moscú: Vysshaia Shcola. ](https://urss.ru/cgi-bin/db.pl?lang=sp&blang=en&page=Catalog&list=299")
