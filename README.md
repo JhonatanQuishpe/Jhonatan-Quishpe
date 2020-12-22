@@ -70,7 +70,7 @@ Fecha de entrega: 22/12/2020
 ## 5.	EXPLICACIÓN: 
 Tinkercad es un navegador web el cual lo utilizamos para realizar los circuitos de la practica es un cimulador donde podemos encotrar todo tipos de elementos para hacer la misma practica y permite diseñar y modelar objetos en 3D, desde elementos simples a formas más complejas.
 En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes e cada elemento 
-[Explicacion en video ](https://www.youtube.com/watch?v=qvL3Ca5jlHI&feature=youtu.be "Explicacion en video ")
+[Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
 
 
 ## 6.	DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN: 
@@ -147,6 +147,6 @@ LEYES DE KIRCHHOFF
 ![](https://fotos.subefotos.com/3e0bce60e1ff8a8d34d7a5a27ae1b154o.jpg)
 
 Video explicativo 
-[video del grupo en youtube](https://www.youtube.com/watch?v=qvL3Ca5jlHI&feature=youtu.be "video del grupo en youtube")
+[video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
 
 
