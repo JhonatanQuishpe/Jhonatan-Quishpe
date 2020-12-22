@@ -147,5 +147,6 @@ LEYES DE KIRCHHOFF
 
 Video explicativo 
 [video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
+[segunda parte lab 1 calculo de corrientes](https://www.youtube.com/watch?v=_Au_3_axZe8 "segunda parte lab 1")
 
 
